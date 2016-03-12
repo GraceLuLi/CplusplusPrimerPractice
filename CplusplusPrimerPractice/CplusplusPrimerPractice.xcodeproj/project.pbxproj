@@ -6,6 +6,10 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		A1A766A41C92495A00F1A8A7 /* Exercise1_9.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Exercise1_9.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		A1A7669C1C92477400F1A8A7 = {
 			isa = PBXGroup;
@@ -17,6 +21,7 @@
 		A1A766A31C92478100F1A8A7 /* Chapter1 */ = {
 			isa = PBXGroup;
 			children = (
+				A1A766A41C92495A00F1A8A7 /* Exercise1_9.cpp */,
 			);
 			name = Chapter1;
 			sourceTree = "<group>";
@@ -29,7 +34,7 @@
 			attributes = {
 				LastUpgradeCheck = 0720;
 			};
-			buildConfigurationList = A1A766A01C92477400F1A8A7 /* Build configuration list for PBXProject "CplusplusPrimePractice" */;
+			buildConfigurationList = A1A766A01C92477400F1A8A7 /* Build configuration list for PBXProject "CplusplusPrimerPractice" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -60,7 +65,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A1A766A01C92477400F1A8A7 /* Build configuration list for PBXProject "CplusplusPrimePractice" */ = {
+		A1A766A01C92477400F1A8A7 /* Build configuration list for PBXProject "CplusplusPrimerPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A1A766A11C92477400F1A8A7 /* Debug */,
